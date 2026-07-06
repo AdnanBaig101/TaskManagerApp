@@ -52,5 +52,8 @@ app/src/main/java/com/example/taskmanager/
 │    └── theme/                   # Colors, typography, theme
 └── MainActivity.kt               # Entry point, permission request
 
-BUILT BY -->
-  Adnan Baig
+```
+
+## Built By
+
+  **Adnan Baig**
